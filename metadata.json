@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc Pro",
+  "description": "An elite-performance precision calculator and multi-functional conversion hub featuring currency trends, unit conversions, financial analysis, and age metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
